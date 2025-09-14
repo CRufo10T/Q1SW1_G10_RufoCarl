@@ -12,8 +12,11 @@ p{
     margin: 0 auto;
 
 }
-body{
+body {
 background-color: blue;
+ margin: 0;              
+padding: 0;
 }
+
 
 
