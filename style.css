@@ -2,7 +2,10 @@ h1{
     text-align: center;
     color: white;
 }
+h4{
+   color: white;
 
+}
 p{
     text-align: center;
     color: white;
@@ -17,6 +20,7 @@ background-color: blue;
  margin: 0;              
 padding: 0;
 }
+
 
 
 
