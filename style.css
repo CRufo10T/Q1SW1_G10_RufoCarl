@@ -1,11 +1,19 @@
 h1{
     text-align: center;
+    color: white;
 }
+
 p{
     text-align: center;
+    color: white;
 }
 #footer button{
      display: block;
     margin: 0 auto;
 
 }
+body{
+background-color: blue;
+}
+
+
