@@ -4,6 +4,8 @@ h1{
 p{
     text-align: center;
 }
-button{
-    align-content: center;
+#footer button{
+     display: block;
+    margin: 0 auto;
+
 }
